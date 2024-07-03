@@ -1,0 +1,11 @@
+name: dbcsep
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - packaging
+    - numpy
+    - obspy
+    - mercantile
+    - shapely
+    - pycsep
