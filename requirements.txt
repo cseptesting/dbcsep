@@ -1,0 +1,6 @@
+packaging
+numpy
+obspy
+mercantile
+shapely
+pycsep
