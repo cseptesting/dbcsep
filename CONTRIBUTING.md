@@ -22,8 +22,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
   - [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
 
-
-
 ## I Have a Question
 
 > If you want to ask a question, we hope that you have alredy read the available [Documentation](https://floatcsep.readthedocs.io).
@@ -38,7 +36,6 @@ If you then still feel the need to ask a question and need clarification, we rec
 - Provide the files/artifacts, or simplified versions of them
 
 We will then take care of the issue as soon as possible.
-
 
 ## I Want To Contribute
 
@@ -65,7 +62,6 @@ Please complete the following steps in advance to help us fix any potential bug 
 
 <!-- omit in toc -->
 
-
 ### Suggesting Enhancements
 
 This section guides you through submitting an enhancement suggestion for floatcsep, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
@@ -78,7 +74,6 @@ This section guides you through submitting an enhancement suggestion for floatcs
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - **Explain why this enhancement would be useful** to most floatcsep users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
-
 
 ### Your First Code Contribution
 
@@ -119,11 +114,7 @@ Pull requests are how we use your changes to the code! Please submit them to us!
 Pull requests can be changed after they are opened, so create a pull request as early as possible.
 This allows us to provide feedback during development and to answer any questions.
 
-
 Also, if you find floatCSEP to be useful, but don't want to contribute to the code we highly encourage updates to the documentation!
-
-
-
 
 ## Additional Resources
 * [Working with Git Forks](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
@@ -136,8 +127,6 @@ Also, if you find floatCSEP to be useful, but don't want to contribute to the co
   * [NumPy and ctypes](https://scipy-cookbook.readthedocs.io/)
   * [SciPy](https://www.scipy.org/docs.html)
   * [NumPy Book](http://csc.ucdavis.edu/~chaos/courses/nlp/Software/NumPyBook.pdf)
-
-
 
 ## Attribution
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
