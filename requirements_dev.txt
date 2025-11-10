@@ -1,0 +1,15 @@
+ packaging
+ numpy
+ obspy
+ mercantile
+ shapely
+ pycsep
+ flake8
+ mypy
+ pytest-cov
+ pytest
+ sphinx
+ sphinx-autoapi
+ sphinx-gallery
+ sphinx-rtd-theme
+ tox
